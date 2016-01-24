@@ -1,0 +1,18 @@
+29-Sep-2011
+ 
+11:56 am
+ 
+Dear Student:  This is a 'working report' for the Integer Base Conversion Project. 
+ 
+Please let me know promptly if you find a bug in this Tester Code. 
+
+ 
+1) ConvertVectorBaseToBaseTen seems to work fine!
+2) ConvertVectorBaseTenToBase seems to work fine!
+3) ConvertVectorBaseAToBaseB seems to work fine!
+4) QuickShortenVectorBaseAToBaseB and QuickLengthenVectorBaseAToBaseB both seem to work fine!
+5) QuickConvertVectorBaseAToBaseB both seem to work fine!
+6) Your Quick routines are NOT faster than your other ones.*****************
+
+ 
+Your Quick routines should actually be faster. This Tester tests for this. Do not divert calculations to Quick routines if that's what you're doing. 

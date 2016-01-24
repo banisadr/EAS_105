@@ -1,0 +1,12 @@
+function [ newtonTime, bisectionTime ] = CompareNewtonWithBisec-
+tion(f, fprime, a, b, tol)
+
+tic;
+BisectionRootFinder(f, a, b, tol);
+bisectionTime = toc;
+
+c = 
+tic;
+
+
+end

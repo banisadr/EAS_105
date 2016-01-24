@@ -1,0 +1,18 @@
+28-Oct-2011
+ 
+2:24 pm
+ 
+Dear Student:  This is a 'working report' for the Gershgorin Project. 
+ 
+Please let me know promptly if you find a bug in this Tester Code. 
+
+ 
+1) MtoCRlist seems to work fine!
+2) PlotGershgorinCircles produces plots!
+3) PlotGershgorinCircles puts circles in the correct places!
+4) PlotGershgorinCircles puts eigenvalues in the correct places!
+5) PlotGershgorinCirclesOneByOne seems to work!
+6) PlotCircle seems to work!
+
+ 
+Everything looks great! Zip up your  routines and turn it all in on Blackboard! 

@@ -1,0 +1,15 @@
+15-Nov-2011
+ 
+11:00 pm
+ 
+Dear Student:  This is a 'working report' for the Perpetual Calendar Project. 
+ 
+Please let me know promptly if you find a bug in this Tester Code. 
+
+ 
+1) Basic test of IsValidDate is working!
+2) Months test of IsValidDate is working!
+3) LeapYear test of IsValidDate is working!
+4) IntToDayOfWeek is working!
+5) Jan 1 tests passed
+6) Similar years tests passed

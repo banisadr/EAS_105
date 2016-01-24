@@ -1,0 +1,15 @@
+21-Sep-2011
+ 
+3:13 pm
+ 
+Dear Student:  This is a 'working report' for the Root Finding Project. 
+ 
+Please let me know promptly if you find a bug in this Tester Code. 
+
+ 
+1) BisectionRootFinder seems to work fine!
+2) NewtonRootFinder seems to work fine!
+3) You need to work on CompareNewtonWithBisection.*****************
+
+ 
+You should work on CompareNewtonWithBisection next. 

@@ -1,0 +1,77 @@
+29-Nov-2011
+ 
+11:42 pm
+ 
+Dear Student:  This is a 'working report' for the IVP Project. 
+ 
+Please let me know promptly if you find a bug in this Tester Code. 
+
+ 
+1) You seem to have the necessary files to work on this!
+2) Here is a list of all examples which have worked correctly.
+In example 1 Euler produces correct values.
+In example 1 Heun produces correct values.
+In example 1 ModifiedEuler produces correct values.
+In example 1 Midpoint produces correct values.
+In example 1 RK4 produces correct values.
+In example 2 Euler produces correct values.
+In example 2 Heun produces correct values.
+In example 2 ModifiedEuler produces correct values.
+In example 2 Midpoint produces correct values.
+In example 2 RK4 produces correct values.
+In example 3 Euler produces correct values.
+In example 3 Heun produces correct values.
+In example 3 ModifiedEuler produces correct values.
+In example 3 Midpoint produces correct values.
+In example 3 RK4 produces correct values.
+In example 4 Euler produces correct values.
+In example 4 Heun produces correct values.
+In example 4 ModifiedEuler produces correct values.
+In example 4 Midpoint produces correct values.
+In example 4 RK4 produces correct values.
+In example 5 Euler produces correct values.
+In example 5 Heun produces correct values.
+In example 5 ModifiedEuler produces correct values.
+In example 5 Midpoint produces correct values.
+In example 5 RK4 produces correct values.
+In example 6 Euler produces correct values.
+In example 6 Heun produces correct values.
+In example 6 ModifiedEuler produces correct values.
+In example 6 Midpoint produces correct values.
+In example 6 RK4 produces correct values.
+In example 7 Euler produces correct values.
+In example 7 Heun produces correct values.
+In example 7 ModifiedEuler produces correct values.
+In example 7 Midpoint produces correct values.
+In example 7 RK4 produces correct values.
+In example 8 Euler produces correct values.
+In example 8 Heun produces correct values.
+In example 8 ModifiedEuler produces correct values.
+In example 8 Midpoint produces correct values.
+In example 8 RK4 produces correct values.
+In example 9 Euler produces correct values.
+In example 9 Heun produces correct values.
+In example 9 ModifiedEuler produces correct values.
+In example 9 Midpoint produces correct values.
+In example 9 RK4 produces correct values.
+In example 10 Euler produces correct values.
+In example 10 Heun produces correct values.
+In example 10 ModifiedEuler produces correct values.
+In example 10 Midpoint produces correct values.
+In example 10 RK4 produces correct values.
+In example 11 Euler produces correct values.
+In example 11 Heun produces correct values.
+In example 11 ModifiedEuler produces correct values.
+In example 11 Midpoint produces correct values.
+In example 11 RK4 produces correct values.
+In example 12 Euler produces correct values.
+In example 12 Heun produces correct values.
+In example 12 ModifiedEuler produces correct values.
+In example 12 Midpoint produces correct values.
+In example 12 RK4 produces correct values.
+Your tally of correct results is 60 out of 60.
+
+3) You seem to have nice plots with legends!
+
+ 
+Everything looks great! Zip up your  routines and turn it all in on Blackboard! 

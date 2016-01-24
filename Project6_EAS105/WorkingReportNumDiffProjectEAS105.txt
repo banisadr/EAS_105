@@ -1,0 +1,185 @@
+04-Nov-2011
+ 
+12:35 am
+ 
+Dear Student:  This is a 'working report' for the NumDiff Project. 
+ 
+Please let me know promptly if you find a bug in this Tester Code. 
+
+ 
+1) You seem to have the necessary files to work on this!
+2) Here is a list of all examples which have worked correctly.
+In example 1 NDiff2A produces correct t-values.
+In example 1 NDiff2A produces correct estimates.
+In example 1 NDiff2B produces correct t-values.
+In example 1 NDiff2B produces correct estimates.
+In example 1 NDiff3A produces correct t-values.
+In example 1 NDiff3A produces correct estimates.
+In example 1 NDiff3B produces correct t-values.
+In example 1 NDiff3B produces correct estimates.
+In example 1 NDiff3C produces correct t-values.
+In example 1 NDiff3C produces correct estimates.
+In example 2 NDiff2A produces correct t-values.
+In example 2 NDiff2A produces correct estimates.
+In example 2 NDiff2B produces correct t-values.
+In example 2 NDiff2B produces correct estimates.
+In example 2 NDiff3A produces correct t-values.
+In example 2 NDiff3A produces correct estimates.
+In example 2 NDiff3B produces correct t-values.
+In example 2 NDiff3B produces correct estimates.
+In example 2 NDiff3C produces correct t-values.
+In example 2 NDiff3C produces correct estimates.
+In example 3 NDiff2A produces correct t-values.
+In example 3 NDiff2A produces correct estimates.
+In example 3 NDiff2B produces correct t-values.
+In example 3 NDiff2B produces correct estimates.
+In example 3 NDiff3A produces correct t-values.
+In example 3 NDiff3A produces correct estimates.
+In example 3 NDiff3B produces correct t-values.
+In example 3 NDiff3B produces correct estimates.
+In example 3 NDiff3C produces correct t-values.
+In example 3 NDiff3C produces correct estimates.
+In example 4 NDiff2A produces correct t-values.
+In example 4 NDiff2A produces correct estimates.
+In example 4 NDiff2B produces correct t-values.
+In example 4 NDiff2B produces correct estimates.
+In example 4 NDiff3A produces correct t-values.
+In example 4 NDiff3A produces correct estimates.
+In example 4 NDiff3B produces correct t-values.
+In example 4 NDiff3B produces correct estimates.
+In example 4 NDiff3C produces correct t-values.
+In example 4 NDiff3C produces correct estimates.
+In example 5 NDiff2A produces correct t-values.
+In example 5 NDiff2A produces correct estimates.
+In example 5 NDiff2B produces correct t-values.
+In example 5 NDiff2B produces correct estimates.
+In example 5 NDiff3A produces correct t-values.
+In example 5 NDiff3A produces correct estimates.
+In example 5 NDiff3B produces correct t-values.
+In example 5 NDiff3B produces correct estimates.
+In example 5 NDiff3C produces correct t-values.
+In example 5 NDiff3C produces correct estimates.
+In example 5 NDiff5A produces correct t-values.
+In example 5 NDiff5A produces correct estimates.
+In example 5 NDiff5B produces correct t-values.
+In example 5 NDiff5B produces correct estimates.
+In example 5 NDiff5C produces correct t-values.
+In example 5 NDiff5C produces correct estimates.
+In example 6 NDiff2A produces correct t-values.
+In example 6 NDiff2A produces correct estimates.
+In example 6 NDiff2B produces correct t-values.
+In example 6 NDiff2B produces correct estimates.
+In example 6 NDiff3A produces correct t-values.
+In example 6 NDiff3A produces correct estimates.
+In example 6 NDiff3B produces correct t-values.
+In example 6 NDiff3B produces correct estimates.
+In example 6 NDiff3C produces correct t-values.
+In example 6 NDiff3C produces correct estimates.
+In example 6 NDiff5A produces correct t-values.
+In example 6 NDiff5A produces correct estimates.
+In example 6 NDiff5B produces correct t-values.
+In example 6 NDiff5B produces correct estimates.
+In example 6 NDiff5C produces correct t-values.
+In example 6 NDiff5C produces correct estimates.
+In example 7 NDiff2A produces correct t-values.
+In example 7 NDiff2A produces correct estimates.
+In example 7 NDiff2B produces correct t-values.
+In example 7 NDiff2B produces correct estimates.
+In example 7 NDiff3A produces correct t-values.
+In example 7 NDiff3A produces correct estimates.
+In example 7 NDiff3B produces correct t-values.
+In example 7 NDiff3B produces correct estimates.
+In example 7 NDiff3C produces correct t-values.
+In example 7 NDiff3C produces correct estimates.
+In example 7 NDiff5A produces correct t-values.
+In example 7 NDiff5A produces correct estimates.
+In example 7 NDiff5B produces correct t-values.
+In example 7 NDiff5B produces correct estimates.
+In example 7 NDiff5C produces correct t-values.
+In example 7 NDiff5C produces correct estimates.
+In example 8 NDiff2A produces correct t-values.
+In example 8 NDiff2A produces correct estimates.
+In example 8 NDiff2B produces correct t-values.
+In example 8 NDiff2B produces correct estimates.
+In example 8 NDiff3A produces correct t-values.
+In example 8 NDiff3A produces correct estimates.
+In example 8 NDiff3B produces correct t-values.
+In example 8 NDiff3B produces correct estimates.
+In example 8 NDiff3C produces correct t-values.
+In example 8 NDiff3C produces correct estimates.
+In example 8 NDiff5A produces correct t-values.
+In example 8 NDiff5A produces correct estimates.
+In example 8 NDiff5B produces correct t-values.
+In example 8 NDiff5B produces correct estimates.
+In example 8 NDiff5C produces correct t-values.
+In example 8 NDiff5C produces correct estimates.
+In example 9 NDiff2A produces correct t-values.
+In example 9 NDiff2A produces correct estimates.
+In example 9 NDiff2B produces correct t-values.
+In example 9 NDiff2B produces correct estimates.
+In example 9 NDiff3A produces correct t-values.
+In example 9 NDiff3A produces correct estimates.
+In example 9 NDiff3B produces correct t-values.
+In example 9 NDiff3B produces correct estimates.
+In example 9 NDiff3C produces correct t-values.
+In example 9 NDiff3C produces correct estimates.
+In example 9 NDiff5A produces correct t-values.
+In example 9 NDiff5A produces correct estimates.
+In example 9 NDiff5B produces correct t-values.
+In example 9 NDiff5B produces correct estimates.
+In example 9 NDiff5C produces correct t-values.
+In example 9 NDiff5C produces correct estimates.
+In example 10 NDiff2A produces correct t-values.
+In example 10 NDiff2A produces correct estimates.
+In example 10 NDiff2B produces correct t-values.
+In example 10 NDiff2B produces correct estimates.
+In example 10 NDiff3A produces correct t-values.
+In example 10 NDiff3A produces correct estimates.
+In example 10 NDiff3B produces correct t-values.
+In example 10 NDiff3B produces correct estimates.
+In example 10 NDiff3C produces correct t-values.
+In example 10 NDiff3C produces correct estimates.
+In example 10 NDiff5A produces correct t-values.
+In example 10 NDiff5A produces correct estimates.
+In example 10 NDiff5B produces correct t-values.
+In example 10 NDiff5B produces correct estimates.
+In example 10 NDiff5C produces correct t-values.
+In example 10 NDiff5C produces correct estimates.
+In example 11 NDiff2A produces correct t-values.
+In example 11 NDiff2A produces correct estimates.
+In example 11 NDiff2B produces correct t-values.
+In example 11 NDiff2B produces correct estimates.
+In example 11 NDiff3A produces correct t-values.
+In example 11 NDiff3A produces correct estimates.
+In example 11 NDiff3B produces correct t-values.
+In example 11 NDiff3B produces correct estimates.
+In example 11 NDiff3C produces correct t-values.
+In example 11 NDiff3C produces correct estimates.
+In example 11 NDiff5A produces correct t-values.
+In example 11 NDiff5A produces correct estimates.
+In example 11 NDiff5B produces correct t-values.
+In example 11 NDiff5B produces correct estimates.
+In example 11 NDiff5C produces correct t-values.
+In example 11 NDiff5C produces correct estimates.
+In example 12 NDiff2A produces correct t-values.
+In example 12 NDiff2A produces correct estimates.
+In example 12 NDiff2B produces correct t-values.
+In example 12 NDiff2B produces correct estimates.
+In example 12 NDiff3A produces correct t-values.
+In example 12 NDiff3A produces correct estimates.
+In example 12 NDiff3B produces correct t-values.
+In example 12 NDiff3B produces correct estimates.
+In example 12 NDiff3C produces correct t-values.
+In example 12 NDiff3C produces correct estimates.
+In example 12 NDiff5A produces correct t-values.
+In example 12 NDiff5A produces correct estimates.
+In example 12 NDiff5B produces correct t-values.
+In example 12 NDiff5B produces correct estimates.
+In example 12 NDiff5C produces correct t-values.
+In example 12 NDiff5C produces correct estimates.
+Your tally of correct results is 168 out of 168.
+
+3) You seem to have nice plots with legends!
+
+ 
+Everything looks great! Zip up your  routines and turn it all in on Blackboard! 

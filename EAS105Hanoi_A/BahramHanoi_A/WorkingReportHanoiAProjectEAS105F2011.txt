@@ -1,0 +1,24 @@
+21-Oct-2011
+ 
+10:48 am
+ 
+Dear Student:  This is a 'working report' for the Hanoi Project part A. 
+ 
+Please let me know promptly if you find a bug in this Tester Code. 
+
+ 
+1) int2baseTwo is working!
+2) randLocationR is working!
+3) rollcall2List is working!
+4) list2Rollcall is working!
+5) You seem to have nice towers!
+6) A simple game play passed!
+7) rollcall2SA passed!
+8) SA2rollcall passed!
+9) SA2TA passed!
+10) TA2SA passed!
+11) reduceTA passed!
+12) distTA passed!
+13) distance coherence passed!
+Everything on the automated side looks great! After the play routine works, 
+zip up your routines and turn it all in on Blackboard! 

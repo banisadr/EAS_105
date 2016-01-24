@@ -1,0 +1,9 @@
+function [ root ] = NewtonRootFinder(f, fprime, c, tol)
+
+
+while abs((x-c)) > tol;
+    x=c
+    c = c - (f(c))/(fprime(c));
+    
+
+end
